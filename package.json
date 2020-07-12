@@ -1,0 +1,19 @@
+{
+  "name": "video-maker-robot",
+  "version": "1.0.0",
+  "description": "Projeto Open Source para fazer vídeos automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafyamada/make-video-robot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafyamada/make-video-robot/issues"
+  },
+  "homepage": "https://github.com/rafyamada/make-video-robot#readme"
+}
